@@ -1,3 +1,3 @@
 # UTS-OOP
 
-pak, jawaban ada dalam folder bin dari no 1 samapi 6 
+pak, jawaban ada dalam folder bin dari no 1 sampai 6 
